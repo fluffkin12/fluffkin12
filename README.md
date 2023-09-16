@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @fluffkin12
-- 👀 I’m interested in ... nothing
-- 🌱 I’m currently learning ... nothing
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... dont.
+i promise im working on stuff it's just on gitea and not on here
 
 <!---
 fluffkin12/fluffkin12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
